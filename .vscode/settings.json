@@ -1,0 +1,20 @@
+{
+    "[html]": {
+        "editor.suggest.insertMode": "replace",
+        "editor.formatOnSave": true,
+        "gitlens.codeLens.scopes": [
+            "document"
+        ],
+    },
+    "[javascript]": {
+        "editor.maxTokenizationLineLength": 2500,
+        "editor.formatOnSave": true,
+    },
+    "[css]": {
+        "editor.suggest.insertMode": "replace",
+        "editor.formatOnSave": true,
+        "gitlens.codeLens.scopes": [
+            "document"
+        ]
+    },
+}
